@@ -1,0 +1,4 @@
+python-telegram-bot==21.7
+pybit==5.8.0
+python-dotenv==1.0.1
+asyncio==3.4.3
